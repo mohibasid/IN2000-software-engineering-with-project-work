@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">mohibas_oblig1</string>
+    <string name="palindrom_sjekker">Palindrom sjekker</string>
+    <string name="skriv_inn">Skriv inn tekst</string>
+    <string name="sjekk_tekst">Sjekk om tekst er palindrome</string>
+    <string name="gå_neste">Gå til neste skjerm</string>
+    <string name="konverter">Konverter til liter</string>
+
+    <string-array name="imperiske_enheter">
+            <item> Fluid Ounce </item>
+            <item> Cup </item>
+            <item> Gallon </item>
+            <item> Hogshead </item>
+    </string-array>
+
+</resources>
