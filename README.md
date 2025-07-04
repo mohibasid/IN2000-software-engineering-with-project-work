@@ -12,7 +12,7 @@ Focus: Android Development in Kotlin
 Semester: Spring 2023
 
 ## Structure:
-Each folder in the repository represents a mandatory submission and contains the foEllowing:
+Each folder in the repository represents a mandatory submission and contains the following:
 
 Source Code: Complete source code for the Android application developed in Kotlin.
 
