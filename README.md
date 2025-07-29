@@ -25,9 +25,6 @@ Source Code: Complete source code for the Android application developed in Kotli
 - Kotlin Documentation
 - Android Studio Resources
 
-## License
-Please note that all code and materials in this repository are for educational purposes and personal use only. Copying or distributing this code for other uses is not permitted without authorization.
-
 ## Contact
 Email: Mohibahmad_@hotmail.com
 LinkedIn: www.linkedin.com/in/mohibah
